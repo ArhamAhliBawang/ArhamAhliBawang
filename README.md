@@ -1,7 +1,7 @@
 ___
-## Salam Kenal
-- Hi, Saya Arham dan saya suka bawang
-- Saat in sedang mempelajari ini dan itu dan ya..
+## Hoo! Welcome to my... Uh what is it?
+- Hi, im a human who likes onions and IT stuff
+- Currently learning : ```Python, C/C++, Git, Neovim, and how to cook some onion dishes```
 ___
 ```mermaid
 
