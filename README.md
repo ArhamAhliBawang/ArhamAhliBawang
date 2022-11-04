@@ -1,7 +1,8 @@
 ___
-## Hoo! Welcome to my... Uh what is it?
+## Hoo! Welcome to my...   Uh what is it?
 - Hi, im a human who likes onions and IT stuff
-- Currently learning : ```Python, C/C++, Git, Neovim, and how to cook some onion dishes```
+- Currently learning : ```Python, C/C++, Git, Github, Neovim, and how to cook some onion dishes```
+- Hobby : maybe use my PC for something..
 ___
 ```mermaid
 
